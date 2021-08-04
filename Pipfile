@@ -1,0 +1,22 @@
+[[source]]
+ url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+torch = {file = "https://download.pytorch.org/whl/cu110/torch-1.7.0%2Bcu110-    cp37-cp37m-linux_x86_64.whl"}
+skorch = "*"
+pandas = "*"
+numpy = "*"
+tensorboard = "*"
+scikit-learn = "*"
+tqdm = "*"
+torchvision = "*"
+torchaudio = "*"
+seaborn = "*"
+fastbpe = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.6"
