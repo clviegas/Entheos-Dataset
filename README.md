@@ -1,3 +1,5 @@
+![Logo](entheos-logo.png)
+
 # Entheos-Dataset
 
 Source code for ["Entheos: A Multimodal Dataset for Studying Enthusiasm" (Carla Viegas and Malihe Alikhani - ACL 2021)](https://aclanthology.org/2021.findings-acl.180/).
