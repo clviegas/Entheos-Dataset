@@ -22,6 +22,9 @@ In the bash script run.sh you can find commands to start training the best unimo
 
 If you want to train a model with different modalities, create a new config file similar to the existing ones, changing the "feature" and "modalities" entry to what you desire. In the CSVFeatures folder are all features extracted from the different modalities. This allows you to easily choose the modalities you want to use by adding the path to the CSV files in the config files.
 
+## Data Sample
+https://drive.google.com/drive/folders/1mCOpO8VwDlNetAbmw7m4LHAVsN1MYuQU?usp=drive_link
+
 ## Reference
 
 Please cite the paper below if you use this code in your research:
